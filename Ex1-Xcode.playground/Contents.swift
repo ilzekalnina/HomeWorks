@@ -63,3 +63,5 @@ let abHypotenuse = sqrt(ac * ac + cb * cb)
 let areaABC = ( ac * cb)/2
 let perimeterABC = ac + cb + abHypotenuse
 print("Triangle's area is \(areaABC) and perimeter is \(perimeterABC).")
+
+//just testing github
